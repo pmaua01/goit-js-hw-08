@@ -2,22 +2,17 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://pmaua01.github.io/goit-js-hw-08/",
+  "homepage": "",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-hw-08/",
+    "build": "parcel build src/*.html",
     "deploy": "gh-pages -d dist"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/pmaua01/goit-js-hw-08.git"
-  },
+
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/goitacademy/parcel-project-template/issues"
-  },
+
   "dependencies": {
     "@vimeo/player": "^2.17.1",
     "gh-pages": "^4.0.0",
@@ -33,3 +28,5 @@
   },
   "browserslist": "> 0.5%, last 2 versions, not dead"
 }
+
+

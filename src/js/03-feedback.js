@@ -7,7 +7,7 @@ const refs = {
 };
 
 const TEXT_INPUT = 'feedback-form-state';
-const formInput = {};
+// const formInput = {};
 
 refs.form.addEventListener('input', throttle(onInput, 500));
 
@@ -15,12 +15,14 @@ refs.form.addEventListener('submit', onSubmit);
 showSavedInput();
 
 function onInput(e) {
-  //   console.log(e.target.name);
+  // console.log(e.target.name);
+  let formInput = localStorage.getItem(TEXT_INPUT);
+  formInput = formInput ? JSON.parse(formInput) : {};
+
   formInput[e.target.name] = e.target.value;
-  //   console.log(formInput);
-  const saveText = JSON.stringify(formInput);
-  //   console.log(saveText);
-  localStorage.setItem(TEXT_INPUT, saveText);
+  console.log('onInput', formInput);
+
+  localStorage.setItem(TEXT_INPUT, JSON.stringify(formInput));
 }
 
 function onSubmit(e) {
@@ -32,19 +34,22 @@ function onSubmit(e) {
 }
 
 function showSavedInput() {
-  const save = localStorage.getItem(TEXT_INPUT);
+  let formInput = localStorage.getItem(TEXT_INPUT);
+  console.log('Function show', formInput);
 
-  if (save) {
-    const textInsert = JSON.parse(save);
-    console.log(textInsert);
-    textInsert.message
-      ? (refs.text.value = textInsert.message)
-      : (refs.text.value = '');
+  if (formInput) {
+    formInput = JSON.parse(formInput);
+    console.log('for each 0', formInput);
+    Object.entries(formInput).forEach(([name, value]) => {
+      console.log('For each', name, value);
+      formInput[name] = value;
+      console.log(formInput);
+    });
 
-    textInsert.email
-      ? (refs.email.value = textInsert.email)
-      : (refs.email.value = '');
+    formInput.message ? (refs.text.value = formInput.message) : '';
+    formInput.email ? (refs.email.value = formInput.email) : '';
 
-    // console.log(formInput);
+    // refs.text.value = formInput.message;
+    // refs.email.value = formInput.email;
   }
 }
