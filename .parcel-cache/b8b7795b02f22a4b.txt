@@ -1,4 +1,4 @@
-6529
+6539
 71C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\csso\LICENSE133054053915517783 0
 90C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\@parcel\source-map\package.json133054053924972502 0
 80C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\svgo\lib\svgo-node.js133054053929261045 0
@@ -39,7 +39,7 @@
 89C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\@parcel\core\lib\serializer.js133054053931116086 0
 88C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\source-map-support\LICENSE.md133054053920075600 0
 108C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\simplelightbox\dist\simple-lightbox.jquery.min.js133054054753987126 0
-50C:\Users\pma01\Documents\GitHub\goit-js-hw-08\dist133059219173438901 1
+50C:\Users\pma01\Documents\GitHub\goit-js-hw-08\dist133059222258309148 1
 64C:\Users\pma01\Documents\GitHub\goit-js-hw-08\src\js\02-video.js133056458346823792 0
 82C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\terser\bin\package.json133054053928612776 0
 78C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\css-tree\lib\common133054053930976457 1
@@ -54,7 +54,7 @@
 105C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\caniuse-lite\data\features\text-size-adjust.js133054053938804117 0
 56C:\Users\pma01\Documents\GitHub\goit-js-hw-08\.gitignore133054051813429117 0
 87C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\source-map\lib\quick-sort.js133054053921541693 0
-58C:\Users\pma01\Documents\GitHub\goit-js-hw-08\package.json133059219062302176 0
+58C:\Users\pma01\Documents\GitHub\goit-js-hw-08\package.json133059222048485919 0
 69C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\parse-json133054053917602208 1
 83C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\@parcel\cache\index.d.ts133054053922997841 0
 84C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\caniuse-lite\data\regions133054053939612114 1
@@ -94,7 +94,7 @@
 73C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\node-addon-api133054053925191937 1
 90C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\fast-glob\out\providers\filters133054053926878395 1
 90C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\caniuse-lite\data\regions\NU.js133054053937038826 0
-133C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\FETCH_HEAD133059214331613797 0
+133C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\FETCH_HEAD133059219715399266 0
 100C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\type-fest\source\require-exactly-one.d.ts133054053926348830 0
 121C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\parcel-reporter-clean-dist\test\fixtures\files\embed\file2.txt133054053927605510 0
 55C:\Users\pma01\Documents\GitHub\goit-js-hw-08\.parcelrc133054024588597605 0
@@ -168,7 +168,7 @@
 81C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\nan\doc\asyncworker.md133054053926129416 0
 113C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\@parcel\runtime-browser-hmr\src\loaders\.eslintrc.json133054053920793675 0
 89C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\type-fest\ts41\kebab-case.d.ts133054053924832878 0
-54C:\Users\pma01\Documents\GitHub\goit-js-hw-08\test.txt133059136756122200 0
+54C:\Users\pma01\Documents\GitHub\goit-js-hw-08\test.txt133059221970142434 0
 104C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\@parcel\transformer-postcss\src\loadConfig.js133054053919517086 0
 65C:\Users\pma01\Documents\GitHub\goit-js-hw-08\src\01-gallery.html133053919880000000 0
 80C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\path-exists\readme.md133054085806862738 0
@@ -187,7 +187,7 @@
 52C:\Users\pma01\Documents\GitHub\goit-js-hw-08\src\js133059136872530703 1
 73C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\semver\LICENSE133054053915388122 0
 99C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\css-what\lib\commonjs\stringify.d.ts.map133054053923267067 0
-172C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\objects\e1\0f49a63b8f6657d155ca7a10dd08e01208a2ce133059214334320350 0
+172C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\objects\e1\0f49a63b8f6657d155ca7a10dd08e01208a2ce133059219717635416 0
 79C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\lodash\lodash.min.js133054085817763622 0
 90C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\caniuse-lite\data\regions\PT.js133054053937657190 0
 87C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\@parcel\transformer-json\src133054053917332929 1
@@ -570,7 +570,7 @@
 82C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\@vimeo\player\README.md133054055024076964 0
 66C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\globals133054053919866156 1
 101C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\svgo\plugins\removeUselessStrokeAndFill.js133054053928832191 0
-172C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\objects\66\941e224f6a8b839ac4ef830557a585a195bf50133059214334310375 0
+172C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\objects\66\941e224f6a8b839ac4ef830557a585a195bf50133059219717625114 0
 93C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\type-fest\ts41\delimiter-case.d.ts133054053922050313 0
 99C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\posthtml-parser\dist\location-tracker.js133054053918070952 0
 86C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\svgo\plugins\removeAttrs.js133054053927505737 0
@@ -846,6 +846,7 @@
 82C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\ordered-binary\index.js133054053917442633 0
 87C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\svgo\plugins\cleanupAttrs.js133054053921541693 0
 103C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\caniuse-lite\data\features\css-snappoints.js133054053933030975 0
+172C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\objects\f5\9b8cda908dd561331400be93bfec4d96ab523f133059219717704888 0
 96C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\simplelightbox\src\simple-lightbox.js133054054754236189 0
 86C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\node-addon-api\package.json133054053924703229 0
 97C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\css-tree\lib\syntax\node\WhiteSpace.js133054053931245751 0
@@ -924,7 +925,7 @@
 79C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\lodash\_hashClear.js133054085811261003 0
 74C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\lodash\round.js133054085820157260 0
 88C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\weakmap-polyfill\package.json133054055024126842 0
-133C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\refs\heads133059214335217638 1
+133C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\refs\heads133059219718532684 1
 115C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\@parcel\package-manager\test\fixtures\empty\package.json133054053927186588 0
 77C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\source-map-support133054053920454584 1
 65C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\stable133054053918569623 1
@@ -932,7 +933,7 @@
 104C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\caniuse-lite\data\features\css-transitions.js133054053933170619 0
 80C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\node-addon-api\napi.h133054053921920667 0
 88C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\posthtml-include\lib\index.js133054053916425366 0
-142C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\02-video.4b80adc0.js.map133059214334061062 0
+142C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\02-video.4b80adc0.js.map133059219717328900 0
 73C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\supports-color133054053918569623 1
 72C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\clone\LICENSE133054053917921349 0
 90C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\caniuse-lite\data\regions\GB.js133054053934555588 0
@@ -957,7 +958,7 @@
 74C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\lodash\clone.js133054085813724417 0
 75C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\v8-compile-cache133054053918709248 1
 81C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\safe-buffer\index.d.ts133054053919028392 0
-132C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\ORIG_HEAD133059214333676086 0
+132C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\ORIG_HEAD133059219716964565 0
 84C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\lodash\_getWrapDetails.js133054085811241038 0
 89C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\nth-check\lib\esm\compile.d.ts133054053925281681 0
 85C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\dotenv-expand\package.json133054053915487854 0
@@ -1003,7 +1004,7 @@
 83C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\@parcel\reporter-cli\lib133054053923137410 1
 84C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\queue-microtask\README.md133054053917831591 0
 81C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\tslib\modules\index.js133054053917253173 0
-141C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\03-feedback.a3085a87.js133059214334041141 0
+141C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\03-feedback.a3085a87.js133059219717308950 0
 83C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\@parcel\optimizer-terser133054053918210623 1
 81C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\resolve-from\readme.md133054053917811646 0
 78C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\lodash\fp\negate.js133054085818491670 0
@@ -1390,7 +1391,7 @@
 172C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\objects\92\c236e84b52606e963592cb6fabda66e1f81d0a133059214315612424 0
 83C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\lodash\fp\flattenDeep.js133054085815649273 0
 75C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\htmlnano\test.js133054053926408669 0
-141C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\01-gallery.40c4146b.css133059214334031143 0
+141C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\01-gallery.40c4146b.css133059219717298978 0
 76C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\type-fest\license133054053915368175 0
 91C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\react-error-overlay\package.json133054053920773737 0
 75C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\css-what\LICENSE133054053915507806 0
@@ -1544,6 +1545,7 @@
 75C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\lmdb\src\txn.cpp133054053929969152 0
 91C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\source-map-js\lib\source-node.js133054053922160254 0
 95C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\parcel-reporter-clean-dist\test\unit133054053923017729 1
+133C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\objects\a0133059219717655267 1
 72C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\lodash\nth.js133054085818561490 0
 78C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\terser\CHANGELOG.md133054053928782322 0
 88C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\fs-extra\lib\mkdirs\mkdirs.js133054085808458475 0
@@ -1710,7 +1712,7 @@
 80C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\picomatch\lib\scan.js133054053920205244 0
 92C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\svgo\plugins\removeXMLProcInst.js133054053928961840 0
 87C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\fs-extra\lib\mkdirs\win32.js133054085808468496 0
-147C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\logs\refs\heads\gh-pages133059214335217638 0
+147C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\logs\refs\heads\gh-pages133059219718532684 0
 87C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\lodash\_strictLastIndexOf.js133054085812607397 0
 84C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\svgo\plugins\sortAttrs.js133054053929051604 0
 78C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\lodash\stubFalse.js133054085820685798 0
@@ -1761,7 +1763,7 @@
 96C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\svgo\lib\svgo\css-select-adapter.d.ts133054053929699894 0
 75C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\p-locate\license133054085805935233 0
 105C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\caniuse-lite\data\features\addeventlistener.js133054053920873463 0
-145C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\03-feedback.a3085a87.js.map133059214334041141 0
+145C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\03-feedback.a3085a87.js.map133059219717308950 0
 94C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\svgo\lib\svgo\css-select-adapter.js133054053925810281 0
 77C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\node-releases\data133054053918619487 1
 81C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\svgo\lib\svgo\jsAPI.js133054053926249091 0
@@ -1831,7 +1833,7 @@
 101C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\@babel\helper-validator-identifier\scripts133054053920304982 1
 78C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\lodash\fp\escape.js133054085815001045 0
 76C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\csso\dist\csso.js133054053925690586 0
-172C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\objects\e8\19fd3cbb5ed9ff6c72c30bf93ca0f5a61333cc133059214334300409 0
+172C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\objects\e8\19fd3cbb5ed9ff6c72c30bf93ca0f5a61333cc133059219717605155 0
 90C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\source-map-js\lib\base64-vlq.js133054053917273086 0
 97C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\caniuse-lite\data\features\wordwrap.js133054053939522246 0
 82C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\lodash\fp\curryRight.js133054085814223165 0
@@ -2165,7 +2167,7 @@
 77C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\commander\index.js133054053917143430 0
 110C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\posthtml\node_modules\posthtml-parser\dist\index.js133054053917392764 0
 123C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\posthtml\node_modules\posthtml-parser\dist\location-tracker.d.ts133054053920713887 0
-64C:\Users\pma01\Documents\GitHub\goit-js-hw-08\dist\02-video.html133059219173418946 0
+64C:\Users\pma01\Documents\GitHub\goit-js-hw-08\dist\02-video.html133059222258299176 0
 81C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\lodash\fp\kebabCase.js133054085817564599 0
 79C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\lodash\fp\compact.js133054085813854167 0
 121C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\posthtml\node_modules\posthtml-parser\dist\location-tracker.js133054053918260879 0
@@ -2203,7 +2205,7 @@
 78C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\get-port\index.d.ts133054053916205937 0
 80C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\lodash\fp\isFinite.js133054085817005639 0
 75C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\pkg-dir\index.js133054085806415446 0
-172C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\objects\f6\c6cca720a4f389ee070c81c6de8d055dbdfbe8133059214334280456 0
+172C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\objects\f6\c6cca720a4f389ee070c81c6de8d055dbdfbe8133059219717528374 0
 85C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\@parcel\core\src\worker.js133054053931894004 0
 93C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\caniuse-lite\data\features\wasm.js133054053939282883 0
 81C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\pinkie-promise\license133054085805526314 0
@@ -2467,7 +2469,7 @@
 84C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\csso\lib\replace\property133054053926398692 1
 86C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\node-gyp-build\package.json133054053919527064 0
 91C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\chokidar\lib\fsevents-handler.js133054053917472552 0
-151C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\refs\remotes\origin\gh-pages133059214357214120 0
+151C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\refs\remotes\origin\gh-pages133059219734832045 0
 83C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\normalize-path\README.md133054053917831591 0
 85C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\node-releases\package.json133054053917632206 0
 82C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\node-releases\README.md133054053919836232 0
@@ -2798,7 +2800,7 @@
 82C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\lodash\cloneDeepWith.js133054085813764302 0
 78C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\lodash\cloneWith.js133054085813774270 0
 75C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\lodash\commit.js133054085813814167 0
-172C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\objects\4b\bedea36eab9256e16be7b6e3bc7ca6bf6e9d04133059214334340297 0
+172C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\objects\4b\bedea36eab9256e16be7b6e3bc7ca6bf6e9d04133059219717674972 0
 76C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\lodash\compact.js133054085813844088 0
 83C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\css-what\lib\es\types.js133054053921601513 0
 101C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\caniuse-lite\data\features\setimmediate.js133054053938105991 0
@@ -3250,7 +3252,7 @@
 82C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\lodash\fp\upperFirst.js133054085821823267 0
 82C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\lodash\_baseToString.js133054085809675226 0
 79C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\lodash\_baseUnary.js133054085809685195 0
-66C:\Users\pma01\Documents\GitHub\goit-js-hw-08\dist\01-gallery.html133059219173418946 0
+66C:\Users\pma01\Documents\GitHub\goit-js-hw-08\dist\01-gallery.html133059222258299176 0
 78C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\lodash\_baseUniq.js133054085809715286 0
 99C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\caniuse-lite\data\features\decorators.js133054053933519674 0
 79C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\lodash\_baseUnset.js133054085809725756 0
@@ -3460,7 +3462,7 @@
 72C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.bin\svgo.cmd133054053940130607 0
 82C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\lodash\fp\extendWith.js133054085815100732 0
 89C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\lodash\fp\findLastIndexFrom.js133054085815519613 0
-133C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\01-gallery.html133059214334031143 0
+133C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\01-gallery.html133059219717308950 0
 83C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\lodash\fp\findLastKey.js133054085815539567 0
 113C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\@swc\helpers\src\_class_check_private_static_access.js133054053930248405 0
 79C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\lodash\fp\flatMap.js133054085815589428 0
@@ -3522,7 +3524,7 @@
 77C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\lodash\fp\isNaN.js133054085817145256 0
 107C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\@parcel\fs-search\fs-search.linux-arm64-gnu.node133054053925770377 0
 80C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\lodash\fp\isNative.js133054085817155229 0
-172C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\objects\eb\167129e8fa8d620dcf056b4532d6db22531fec133059214334250536 0
+172C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\objects\eb\167129e8fa8d620dcf056b4532d6db22531fec133059219717488482 0
 77C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\lodash\fp\isNil.js133054085817185147 0
 80C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\lodash\fp\isNumber.js133054085817225111 0
 83C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\fs-extra\lib\fs\index.js133054085808329062 0
@@ -3597,7 +3599,7 @@
 94C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\caniuse-lite\data\regions\alt-af.js133054053924364137 0
 78C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\lodash\fp\nthArg.js133054085818571466 0
 78C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\lodash\fp\number.js133054085818591397 0
-172C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\objects\29\3284d577402ca3ef2bc5f7fea325226437892e133059214334330322 0
+172C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\objects\29\3284d577402ca3ef2bc5f7fea325226437892e133059219717655267 0
 78C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\lodash\fp\object.js133054085818601366 0
 79C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\lodash\fp\omitAll.js133054085818681151 0
 78C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\lodash\fp\omitBy.js133054085818701104 0
@@ -3655,7 +3657,7 @@
 86C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\lodash\fp\rangeStepRight.js133054085819957748 0
 90C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\caniuse-lite\data\regions\LS.js133054053936390559 0
 83C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\lodash\fp\reduceRight.js133054085819987667 0
-138C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\02-video.5cfac306.js133059214334031143 0
+138C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\02-video.5cfac306.js133059219717308950 0
 78C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\lodash\fp\reject.js133054085820007616 0
 78C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\lodash\fp\remove.js133054085820027574 0
 90C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\caniuse-lite\data\regions\SL.js133054053938185776 0
@@ -3855,7 +3857,7 @@
 84C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\lines-and-columns\LICENSE133054053915457934 0
 100C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\lmdb\node_modules\node-addon-api\index.js133054053924503806 0
 102C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\lmdb\node_modules\node-addon-api\napi-inl.h133054053921382098 0
-141C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\01-gallery.48768669.css133059214334031143 0
+141C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\01-gallery.48768669.css133059219717298978 0
 104C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\lmdb\node_modules\node-addon-api\node_api.gyp133054053916056332 0
 99C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\caniuse-lite\data\features\css-sticky.js133054053933040957 0
 105C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\lmdb\node_modules\node-addon-api\noexcept.gypi133054053918709248 0
@@ -4264,7 +4266,7 @@
 82C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\filenamify\package.json133054085807231756 0
 79C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\filenamify\readme.md133054085807361407 0
 76C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\fclone\.npmignore133054053916205937 0
-133C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\objects\f5133059214315531627 1
+133C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\objects\f5133059219717714862 1
 77C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\fclone\.travis.yml133054053921402058 0
 89C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\@parcel\optimizer-htmlnano\src133054053919287701 1
 77C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\css-tree\lib\utils133054053929779655 1
@@ -4438,7 +4440,7 @@
 93C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\@parcel\utils\src\openInBrowser.js133054053928173952 0
 90C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\domutils\lib\stringify.d.ts.map133054053924304293 0
 84C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\domutils\lib\traversal.js133054053921232498 0
-172C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\objects\f0\384ee48ab79546ba22b6dc6ba8d43966522a93133059214334340297 0
+172C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\objects\f0\384ee48ab79546ba22b6dc6ba8d43966522a93133059219717674972 0
 73C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\domhandler\lib133054053921132766 1
 84C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\domhandler\lib\index.d.ts133054053920833565 0
 90C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\caniuse-lite\data\regions\KZ.js133054053935961711 0
@@ -4662,7 +4664,7 @@
 90C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\caniuse-lite\data\regions\PK.js133054053937417821 0
 88C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\css-select\lib\index.d.ts.map133054053924922635 0
 86C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\css-select\lib\procedure.js133054053921511759 0
-172C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\objects\d0\b3d8fc4328732d0aa0edd93237991aed3ae681133059214334310375 0
+172C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\objects\d0\b3d8fc4328732d0aa0edd93237991aed3ae681133059219717615132 0
 104C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\caniuse-lite\data\features\media-attribute.js133054053936550130 0
 90C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\css-select\lib\pseudo-selectors133054053926777698 1
 83C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\css-select\lib\sort.d.ts133054053926707869 0
@@ -4866,7 +4868,7 @@
 90C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\caniuse-lite\data\regions\TC.js133054053938694415 0
 90C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\caniuse-lite\data\regions\TG.js133054053938873934 0
 110C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\caniuse-lite\data\features\background-attachment.js133054053928243761 0
-130C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\objects133059214335337682 1
+130C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\objects133059219718652713 1
 90C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\caniuse-lite\data\regions\TJ.js133054053938893921 0
 94C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\caniuse-lite\data\features\audio.js133054053927455871 0
 90C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\caniuse-lite\data\regions\TV.js133054053939013604 0
@@ -4959,7 +4961,7 @@
 109C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\@swc\helpers\lib\_tagged_template_literal_loose.js133054053929121415 0
 86C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\binary-extensions\readme.md133054053918769087 0
 103C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\caniuse-lite\data\features\css-namespaces.js133054053932522419 0
-142C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\refs\remotes\origin133059214357313435 1
+142C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\refs\remotes\origin133059219734871888 1
 84C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\@parcel\transformer-image133054053920783704 1
 105C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\caniuse-lite\data\features\css-not-sel-list.js133054053932542280 0
 103C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\caniuse-lite\data\features\css-page-break.js133054053932632045 0
@@ -5192,7 +5194,7 @@
 107C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\caniuse-lite\data\features\unhandledrejection.js133054053939053505 0
 112C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\caniuse-lite\data\features\upgradeinsecurerequests.js133054053939063478 0
 116C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\caniuse-lite\data\features\url-scroll-to-text-fragment.js133054053939073448 0
-128C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\index.html133059214334041141 0
+128C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\index.html133059219717308950 0
 88C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\@parcel\source-map\index.d.ts133054053929809705 0
 92C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\caniuse-lite\data\features\url.js133054053939073448 0
 87C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\@parcel\logger\src\Logger.js133054053917522419 0
@@ -5436,7 +5438,7 @@
 104C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\@swc\helpers\src\_class_private_method_set.js133054053930567554 0
 110C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\@parcel\core\test\fixtures\main-global\package.json133054053932402651 0
 118C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\@swc\helpers\src\_class_static_private_field_destructure.js133054053930587498 0
-156C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\logs\refs\remotes\origin\gh-pages133059214357293566 0
+156C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\logs\refs\remotes\origin\gh-pages133059219734851993 0
 115C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\@swc\helpers\src\_class_static_private_field_spec_get.js133054053930617458 0
 115C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\@swc\helpers\src\_class_static_private_field_spec_set.js133054053930637370 0
 89C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\@swc\helpers\src\_construct.js133054053930697210 0
@@ -5503,7 +5505,7 @@
 118C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\@swc\helpers\lib\_class_static_private_field_destructure.js133054053926239118 0
 115C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\@swc\helpers\lib\_class_static_private_field_spec_set.js133054053926408669 0
 113C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\@swc\helpers\lib\_class_static_private_field_update.js133054053926478489 0
-61C:\Users\pma01\Documents\GitHub\goit-js-hw-08\dist\index.html133059219173418946 0
+61C:\Users\pma01\Documents\GitHub\goit-js-hw-08\dist\index.html133059222258299176 0
 92C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\@swc\helpers\lib\_create_super.js133054053926717839 0
 95C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\@swc\helpers\lib\_define_property.js133054053927206537 0
 87C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\@swc\helpers\lib\_extends.js133054053927256401 0
@@ -5522,6 +5524,7 @@
 95C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\@parcel\core\src\loadParcelPlugin.js133054053929789631 0
 99C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\@swc\helpers\lib\_non_iterable_spread.js133054053928493096 0
 93C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\@swc\helpers\lib\_object_spread.js133054053928542967 0
+172C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\objects\f4\2bf02cacc9a6b11d7ce756579ca7ec3745bba5133059219718453388 0
 105C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\@swc\helpers\lib\_object_without_properties.js133054053928622749 0
 111C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\@swc\helpers\lib\_object_without_properties_loose.js133054053928662643 0
 107C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\@swc\helpers\lib\_possible_constructor_return.js133054053928732458 0
@@ -5652,7 +5655,7 @@
 94C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\@parcel\config-default\package.json133054053918998471 0
 98C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\@parcel\utils\test\PromiseQueue.test.js133054053928532988 0
 109C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\@parcel\utils\test\replaceBundleReferences.test.js133054053928762474 0
-172C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\objects\b3\51555bc72e5087859dee3223c0a4c6cbd5a66a133059214334270484 0
+172C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\objects\b3\51555bc72e5087859dee3223c0a4c6cbd5a66a133059219717518401 0
 94C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\@parcel\utils\test\throttle.test.js133054053929191238 0
 105C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\@parcel\transformer-react-refresh-wrap\LICENSE133054053915567641 0
 93C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\@parcel\utils\test\urlJoin.test.js133054053929280993 0
@@ -5696,7 +5699,7 @@
 86C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\@parcel\transformer-svg\lib133054053920484503 1
 133C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\objects\de133056457121664496 1
 90C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\@parcel\transformer-svg\LICENSE133054053915557669 0
-133C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\objects\37133056457122494327 1
+133C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\objects\37133059219717605155 1
 87C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\@parcel\transformer-svg\test133054053919985831 1
 108C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\@parcel\transformer-svg\test\parseFuncIRI.test.js133054053920125468 0
 102C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\@parcel\transformer-svg\src\dependencies.js133054053917492498 0
@@ -5779,10 +5782,10 @@
 133C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\@parcel\source-map\parcel_sourcemap_wasm\dist-web\parcel_sourcemap_wasm.js133054053922798314 0
 139C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\@parcel\source-map\parcel_sourcemap_wasm\dist-node\parcel_sourcemap_wasm_bg.wasm133054053929929256 0
 110C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\@parcel\source-map\parcel_sourcemap_node\Cargo.toml133054053929779655 0
-145C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\01-gallery.48768669.css.map133059214334031143 0
+145C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\01-gallery.48768669.css.map133059219717298978 0
 108C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\@parcel\source-map\parcel_sourcemap_node\index.js133054053921262437 0
 110C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\@parcel\source-map\parcel_sourcemap_node\src\lib.rs133054053929749738 0
-142C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\03-feedback.bb91f3cc.css133059214334041141 0
+142C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\03-feedback.bb91f3cc.css133059219717308950 0
 133C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts\index.darwin-arm64.node133054053926448558 0
 136C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts\index.linux-arm64-gnu.node133054053928453211 0
 109C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\@babel\highlight\node_modules\color-name\README.md133054053917223292 0
@@ -6179,6 +6182,7 @@
 90C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\@parcel\core\src\projectPath.js133054053930717179 0
 82C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\@parcel\core\src\public133054053931415285 1
 93C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\@parcel\core\src\RequestTracker.js133054053930996405 0
+172C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\objects\a0\e778df241c558a11647d454de5b62293ae7965133059219717645059 0
 89C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\@parcel\core\src\serializer.js133054053931146005 0
 101C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\@parcel\core\src\serializerCore.browser.js133054053931225882 0
 93C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\@parcel\core\src\serializerCore.js133054053931255711 0
@@ -6232,7 +6236,7 @@
 95C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\@parcel\config-default\test\.babelrc133054053915687367 0
 101C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\@parcel\config-default\test\config.test.js133054053917382798 0
 89C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\@parcel\compressor-raw\LICENSE133054053915617511 0
-172C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\objects\e0\64f3c3f143125b49fc1f075c67df41b6b7130e133059214334250536 0
+172C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\objects\e0\64f3c3f143125b49fc1f075c67df41b6b7130e133059219717498455 0
 94C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\@parcel\compressor-raw\package.json133054053918529759 0
 85C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\@parcel\compressor-raw\src133054053917362844 1
 102C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\@parcel\compressor-raw\src\RawCompressor.js133054053917532391 0
@@ -6242,7 +6246,7 @@
 108C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\@jridgewell\trace-mapping\dist\types\resolve.d.ts133054053922160254 0
 90C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\@parcel\codeframe\test\fixtures133054053916564975 1
 95C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\@parcel\codeframe\test\fixtures\a.js133054053916674689 0
-132C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\logs\HEAD133059214335207645 0
+132C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\logs\HEAD133059219718522694 0
 93C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\@parcel\codeframe\src\codeframe.js133054053925931478 0
 93C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\@parcel\codeframe\lib\codeframe.js133054053925820237 0
 76C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\@parcel\cache\lib133054053923147401 1
@@ -6318,7 +6322,7 @@
 77C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\@lezer\common\dist133054053921621460 1
 80C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\@lezer\common\LICENSE133054053915637452 0
 82C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\@lezer\common\README.md133054053920314953 0
-172C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\objects\ea\9601a184844f62461742c9e5434b73eae5ac1d133059214334250536 0
+172C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\objects\ea\9601a184844f62461742c9e5434b73eae5ac1d133059219717498455 0
 87C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\@lezer\common\dist\index.cjs133054053917402740 0
 87C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\@lezer\common\dist\tree.d.ts133054053921651381 0
 82C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\@jridgewell\gen-mapping133054053920045679 1
@@ -6392,34 +6396,34 @@
 89C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\@babel\code-frame\package.json133054053918250469 0
 86C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\@babel\code-frame\README.md133054053916365518 0
 89C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\@babel\code-frame\lib\index.js133054053917382798 0
-129C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\config133059214334658203 0
-117C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git133059214334021135 1
-122C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git133059214335227613 1
-145C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\01-gallery.40c4146b.css.map133059214334031143 0
-140C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\01-gallery.7bb6cf8a.js133059214334031143 0
+129C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\config133059219717994366 0
+117C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git133059219717289012 1
+122C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git133059219718542658 1
+145C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\01-gallery.40c4146b.css.map133059219717298978 0
+140C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\01-gallery.7bb6cf8a.js133059219717298978 0
 152C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\logs\refs\remotes\origin\HEAD133054087003591634 0
-144C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\01-gallery.7bb6cf8a.js.map133059214334061062 0
-140C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\01-gallery.92116262.js133059214334031143 0
-144C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\01-gallery.92116262.js.map133059214334061062 0
-138C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\02-video.4b80adc0.js133059214334031143 0
-142C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\02-video.5cfac306.js.map133059214334061062 0
-131C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\02-video.html133059214334041141 0
-141C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\03-feedback.a44d3d85.js133059214334041141 0
-145C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\03-feedback.a44d3d85.js.map133059214334041141 0
-146C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\03-feedback.bb91f3cc.css.map133059214334041141 0
-134C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\03-feedback.html133059214334041141 0
-137C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\COMMIT_EDITMSG133059214335181120 0
+144C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\01-gallery.7bb6cf8a.js.map133059219717328900 0
+140C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\01-gallery.92116262.js133059219717298978 0
+144C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\01-gallery.92116262.js.map133059219717328900 0
+138C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\02-video.4b80adc0.js133059219717308950 0
+142C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\02-video.5cfac306.js.map133059219717338873 0
+131C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\02-video.html133059219717308950 0
+141C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\03-feedback.a44d3d85.js133059219717308950 0
+145C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\03-feedback.a44d3d85.js.map133059219717308950 0
+146C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\03-feedback.bb91f3cc.css.map133059219717318924 0
+134C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\03-feedback.html133059219717318924 0
+137C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\COMMIT_EDITMSG133059219718493141 0
 134C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\description133054086980962107 0
-127C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\HEAD133059214333324232 0
+127C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\HEAD133059219716623482 0
 128C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\hooks133054086981041895 1
-128C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\index133059214335150821 0
+128C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\index133059219718462861 0
 134C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\packed-refs133054087003531785 0
 127C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\refs133054087003551751 1
 135C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\refs\remotes133054087003551751 1
 132C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\refs\tags133054086981061841 1
 147C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\refs\remotes\origin\HEAD133054087003591634 0
 147C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\refs\remotes\origin\main133059214331594196 0
-142C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\refs\heads\gh-pages133059214335207645 0
+142C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\refs\heads\gh-pages133059219718522694 0
 133C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\objects\0f133059214331194921 1
 133C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\objects\18133059214315592443 1
 133C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\objects\26133059214315501170 1
@@ -6436,6 +6440,7 @@
 133C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\objects\85133059170655068047 1
 133C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\objects\8b133059170654193492 1
 133C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\objects\91133059214315431331 1
+133C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\objects\95133059219717704888 1
 133C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\objects\9e133054090752630651 1
 133C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\objects\9f133059214316092566 1
 133C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\objects\a3133054090752879982 1
@@ -6443,11 +6448,13 @@
 133C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\objects\ac133059214315559714 1
 133C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\objects\ae133054090752530914 1
 133C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\objects\b7133054090752431180 1
+133C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\objects\c4133059219718512728 1
 133C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\objects\c9133056457121714363 1
 133C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\objects\cc133059214335199382 1
 133C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\objects\cf133059214315690995 1
 133C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\objects\e6133059214316132448 1
 133C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\objects\e8133056457121481806 1
+133C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\objects\f4133059219718462861 1
 133C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\objects\ff133059214335150821 1
 135C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\objects\pack133054087003711328 1
 185C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\objects\pack\pack-7adaa638cf4ec17e08705f71915989275e6ea18b.idx133054087003243068 0
@@ -6456,27 +6463,30 @@
 172C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\objects\f5\2c0b285e3f2c092c1303122e5cc87a8d5ff8e5133059214315527252 0
 172C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\objects\cf\5ed08d9a86e90f0f945c50b359b8a082b3a7f2133059214315674836 0
 172C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\objects\cc\184f3a1972f818c94e1f1dc3a6039c4383e214133059214335181120 0
-172C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\objects\b7\25caa3585d4f90b618a50692b072a6aed84e4e133059214334260509 0
-172C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\objects\ae\aadda64ad8d25c30670604bd9658f8b2f7bade133059214334290429 0
+172C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\objects\c4\9a7cd44307709c6e5e73604bef52d2bd6531ce133059219718493141 0
+172C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\objects\b7\25caa3585d4f90b618a50692b072a6aed84e4e133059219717508427 0
+172C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\objects\ae\aadda64ad8d25c30670604bd9658f8b2f7bade133059219717538346 0
 172C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\objects\ac\2dc1ffd2e29ebb75ad918088d9802f29b77f1b133059214315546644 0
 172C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\objects\a8\43c471dc758015f231cf8a01747ae80e3bd78e133054091563292764 0
 172C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\objects\9a\1c8e93dedc32b13a46ace76c6abd552bbd4d5a133059214331244783 0
-172C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\objects\98\2c4b06c8bc4c70e4794ecc5e08b991d01f50d7133059214334330322 0
+172C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\objects\98\2c4b06c8bc4c70e4794ecc5e08b991d01f50d7133059219717664994 0
 172C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\objects\5e\84f7681c6154c99b9c59a8d481adb4985de5ca133059214331224837 0
 172C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\objects\96\2df8344b17cfe2a2e69d39b53f4a4e5680ee8e133056457122534212 0
+172C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\objects\95\66618ea5bfc03f0cf6c02bb5259f9655f0199d133059219717684953 0
 172C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\objects\92\0f68ff1a990f623fdb57c1c8f6cf83e2ce1402133054091563302403 0
-172C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\objects\80\f97c1922b603b10881f402593cc2df93695b5e133059214334260509 0
+172C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\objects\80\f97c1922b603b10881f402593cc2df93695b5e133059219717508427 0
 172C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\objects\7f\c06a0c8cf00adf509f2da7e60a810ca7620bcf133054091563302403 0
 172C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\objects\7c\50591b47c0587239e17f62eda1eb2aab686bbf133059214334355875 0
 172C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\objects\7b\88d3134290b2037077c932e9b46de0e80cc248133059214331284685 0
 172C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\objects\79\dcc48cc90732f1e0dc8d64dfeecf1a1ae4b81f133059214315936634 0
-172C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\objects\78\b1768f577ff7987c6ba1bfd935a1f7afaf3bc7133059214334340297 0
+172C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\objects\78\b1768f577ff7987c6ba1bfd935a1f7afaf3bc7133059219717674972 0
 172C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\objects\76\3ec113ecdad15a5000acf097231d00a3b8ff48133054091563322335 0
 172C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\objects\6c\24a7a1de7b38a5549ced04590b3fa139bbc20d133056457121454465 0
-172C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\objects\6b\9ce147c87713b4a31eeaa4620b478263aab051133059214334330322 0
+172C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\objects\6b\9ce147c87713b4a31eeaa4620b478263aab051133059219717664994 0
 172C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\objects\61\d71d40529f546cec9a17bb4fe505b182e27502133056457121634555 0
 172C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\objects\5d\536890e7a2b64b904e797745203fa4456f9bdd133059214315364366 0
 172C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\objects\51\668cb725052014a47cbda36ed147eeef8d6c56133054090748581482 0
+172C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\objects\37\4b5bc6c6ed1e6fcc7b17a4f21e12a2bea8917f133059219717538346 0
 172C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\objects\2a\04c3b2a251d5130112291eab19b51fdbc468b5133054090748682311 0
 172C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\objects\28\8f1b301bd33795baf97f4e43d32abda196134d133059214331204891 0
 172C:\Users\pma01\Documents\GitHub\goit-js-hw-08\node_modules\.cache\gh-pages\https!github.com!pmaua01!goit-js-hw-08.git\.git\objects\26\9b259397efeaf7ad70570c2bea013d24791da7133059214315491253 0
@@ -6525,6 +6535,6 @@
 75C:\Users\pma01\Documents\GitHub\goit-js-hw-08\dist\02-video.5cfac306.js.map133059213645223535 0
 74C:\Users\pma01\Documents\GitHub\goit-js-hw-08\dist\03-feedback.a3085a87.js133059213645124139 0
 75C:\Users\pma01\Documents\GitHub\goit-js-hw-08\dist\03-feedback.bb91f3cc.css133059213645124139 0
-67C:\Users\pma01\Documents\GitHub\goit-js-hw-08\dist\03-feedback.html133059219173418946 0
+67C:\Users\pma01\Documents\GitHub\goit-js-hw-08\dist\03-feedback.html133059222258299176 0
 70C:\Users\pma01\Documents\GitHub\goit-js-hw-08\assets\repo-settings.png133054024588727265 0
 63C:\Users\pma01\Documents\GitHub\goit-js-hw-08\assets\status.png133054024588737231 0
